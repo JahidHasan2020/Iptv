@@ -1,13 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",FIFA
-http://172.17.50.115:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Unit 8 Sports
+http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="News",Somoy TV
+#EXTINF:-1 group-title="News",Somoy HD
 http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="News",Somoy TV 2
-http://172.17.50.115:84/ant1008/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News",Somoy TV
+http://172.17.50.115:84/ant1005/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",T Sports
+http://172.17.50.115:84/ant1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",T Sports 2
+http://172.17.50.115:84/ant1007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",T Sports 3
 http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",T Sports HD
+http://172.17.50.115:84/ant1006/tracks-v1a1/mono.m3u8
