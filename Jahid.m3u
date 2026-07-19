@@ -12,10 +12,10 @@ http://172.17.50.115:84/ant1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy TV BDIX
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,beIN Sports (Xumo)
+#EXTINF:-1,beIN Sports Xumo
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1,Cazé Sports
+#EXTINF:-1,Caze Sports
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1,T Sports
@@ -24,10 +24,10 @@ http://172.17.50.115:84/ant1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports BDIX
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
-#EXTINF:-1,Sports Link 1 (Unnamed)
+#EXTINF:-1,T Sports Backup 1
 http://172.17.50.115:84/ant1007/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Sports Link 2 (Unnamed)
+#EXTINF:-1,T Sports Backup 2
 http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,T Sports HD
