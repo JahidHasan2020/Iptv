@@ -9,7 +9,7 @@ http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Somoy TV
 http://172.17.50.115:84/ant1005/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",beIN Sports
+#EXTINF:-1 group-title="Sports",beIN Sports Xumo
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 group-title="Sports",Caze Sports
@@ -26,3 +26,15 @@ http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",T Sports HD
 http://172.17.50.115:84/ant1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN Sports 5 English
+https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index.m3u8
+
+#EXTINF:-1 group-title="Sports",FIFA Live
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 group-title="Entertainment",PTV
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
