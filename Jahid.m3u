@@ -1,40 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",Unit 8 Sports
+#EXTINF:-1,Unit 8 Sports
 http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="News",Somoy HD
+#EXTINF:-1,Somoy HD
 http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="News",Somoy TV
+#EXTINF:-1,Somoy TV
 http://172.17.50.115:84/ant1005/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",beIN Sports Xumo
+#EXTINF:-1,Somoy TV BDIX
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN Sports (Xumo)
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 group-title="Sports",Caze Sports
+#EXTINF:-1,Cazé Sports
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="Sports",T Sports
+#EXTINF:-1,T Sports
 http://172.17.50.115:84/ant1004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",T Sports 2
+#EXTINF:-1,T Sports BDIX
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1,Sports Link 1 (Unnamed)
 http://172.17.50.115:84/ant1007/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",T Sports 3
+#EXTINF:-1,Sports Link 2 (Unnamed)
 http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",T Sports HD
+#EXTINF:-1,T Sports HD
 http://172.17.50.115:84/ant1006/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",beIN Sports
+#EXTINF:-1,beIN Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="Sports",beIN Sports 5 English
+#EXTINF:-1,beIN Sports 5 English
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index.m3u8
 
-#EXTINF:-1 group-title="Sports",FIFA Live
+#EXTINF:-1,FIFA Live
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 group-title="Entertainment",PTV
+#EXTINF:-1,PTV Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
